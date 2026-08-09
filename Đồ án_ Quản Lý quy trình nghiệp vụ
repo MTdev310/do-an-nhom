@@ -1,0 +1,49 @@
+CHƯƠNG 1: TỔNG QUAN DOANH NGHIỆP & PHƯƠNG PHÁP THỰC HIỆN
+1.1. Giới thiệu tổng quan về nguyên mẫu AR System Co., Ltd
+Bảng tóm tắt thông tin pháp lý và thương mại của doanh nghiệp nguyên mẫu:
+Tiêu chí
+Thông tin chi tiết
+Tên công ty
+AR System Co., Ltd. 
+Năm thành lập
+Tháng 03/1991 (Đạt mốc 35 năm vào năm 2026)
+Trụ sở chính
+Tokyo, Nhật Bản
+Đại diện pháp luật
+Ông Nakamura (Giám đốc điều hành - CEO)
+Lĩnh vực kinh doanh
+- Phát triển & Phân phối phần mềm quản lý lõi Thương mại điện tử (SaaS "Ace").
+- Xây dựng trang web TMĐT (EC-CUBE, Shopify, WordPress).
+- Tư vấn & Vận hành hạ tầng điện toán đám mây (Oracle Cloud Infrastructure - OCI).
+- Cung cấp giải pháp trực quan hóa dữ liệu và cải tiến quy trình (Verint).
+Quy mô nhân sự
+50 nhân sự (Cơ cấu đa quốc gia: 50% người Nhật Bản, 50% người nước ngoài)
+
+1.1.1. Lịch sử hình thành và lĩnh vực kinh doanh
+a) Lịch sử 35 năm hình thành và phát triển (1991 - 2026)
+Được thành lập vào tháng 3 năm 1991 tại Tokyo, AR System Co., Ltd. bắt đầu hành trình của mình như một công ty phát triển phần mềm đóng gói truyền thống của Nhật Bản. Xuyên suốt 35 năm lịch sử, doanh nghiệp đã trải qua nhiều chu kỳ biến động của giới công nghệ, từ kỷ nguyên sơ khai của Internet cho đến thời kỳ bùng nổ của Thương mại điện tử và Điện toán đám mây.
+Sản phẩm mũi nhọn và tự hào nhất của công ty là hệ thống lõi quản lý thương mại điện tử "(Mail-Order Ace). Trong hơn 3 thập kỷ, hệ thống này đã được triển khai thành công cho khoảng 600 doanh nghiệp B2B và B2C, góp phần quản lý, luân chuyển và xử lý dòng hàng hóa trị giá lên tới 25.000 tỷ VNĐ. Doanh nghiệp tự định vị mình không chỉ là một nhà cung cấp phần mềm mà còn là đối tác đồng hành giúp các công ty bán lẻ giải quyết triệt để các bài toán về: quản lý tồn kho theo thời gian thực, xử lý đơn hàng đa kênh, và tích hợp logistics.
+b) Sự chuyển dịch mô hình hoạt động và giao thoa văn hóa đa quốc gia (50/50)
+Bước vào thập niên 2020, trước bối cảnh dân số già hóa tại Nhật Bản và sự thiếu hụt trầm trọng nguồn nhân lực CNTT chất lượng cao, Ban Giám đốc AR System đã đưa ra một quyết định mang tính bước ngoặt: Toàn cầu hóa khối sản xuất. Từ một công ty 100% nhân sự nội địa, AR System hiện nay là một tập thể 50 nhân sự, trong đó 50% là người Nhật Bản (đảm nhận các khâu Quản lý, Hành chính, Kinh doanh, CSKH) và 50% là kỹ sư phần mềm ngoại quốc (người nước ngoài chiếm 100% khối Kỹ thuật).
+Điểm đặc thù của AR System là toàn bộ 50 nhân sự này đều làm việc trực tiếp tại trụ sở ở Tokyo, hoàn toàn không áp dụng làm việc từ xa (remote) hay làm việc lệch múi giờ.
+Sự giao thoa văn hóa ngay tại một văn phòng vật lý mang lại những lợi thế to lớn nhưng đồng thời cũng tạo ra những "nút thắt cổ chai" nghiêm trọng:
+Điểm mạnh: Sự tương tác trực tiếp giúp kết hợp được tinh thần tỉ mỉ của người Nhật và sự nhạy bén công nghệ của kỹ sư quốc tế.
+Thách thức (Tiền đề cho đồ án): Trong số các kỹ sư ngoại quốc, có người giao tiếp thành thạo tiếng Nhật, có người lại hoàn toàn không. Điều này dẫn đến rào cản ngôn ngữ diễn ra hàng ngày ngay tại văn phòng. Khi nhận Phiếu báo lỗi bằng tiếng Nhật, kỹ sư không thạo tiếng phải "chờ đợi" các đồng nghiệp người Nhật hoặc người thạo tiếng dịch lại, gây lãng phí thời gian toàn trình. Thêm vào đó, văn hóa phê duyệt giấy tờ (Hanko) kiểu cũ của quản lý người Nhật lại xung đột với tư duy làm việc linh hoạt (Agile) của kỹ sư, tạo ra độ trễ lớn trong công việc.
+Đây chính là lý do AR System Co., Ltd. được chọn làm nguyên mẫu cho đồ án này. Việc áp dụng các phương pháp luận của Quản trị quy trình kinh doanh (BPM) vào thực tiễn doanh nghiệp này nhằm mục đích thiết kế, phân tích, thực hiện và giám sát các quy trình kinh doanh, với mục tiêu cải thiện hiệu suất của doanh nghiệp.
+1.1.2. Sơ đồ tổ chức
+Để vận hành khối lượng công việc khổng lồ và hỗ trợ 600 doanh nghiệp khách hàng với chỉ 50 nhân sự, AR System duy trì một cơ cấu tổ chức tinh gọn nhưng phân quyền rất rõ ràng. Sơ đồ tổ chức của công ty được chia thành 10 bộ phận chính, được đặt dưới sự điều hành trực tiếp của Ban Giám đốc. Trong phạm vi đồ án, các bộ phận này đóng vai trò là các Tác nhân tham gia trực tiếp vào các quy trình nghiệp vụ.
+(Ghi chú: Tại đây, nhóm chèn một hình ảnh sơ đồ tổ chức dạng hình cây vẽ bằng Visio hoặc Draw.io).
+1. Khối Quản trị - Vận hành
+Bộ phận Hành chính: Chịu trách nhiệm quản lý cơ sở vật chất, tài sản công ty, văn thư lưu trữ, và xử lý các thủ tục pháp lý cơ bản.
+Bộ phận Nhân sự: Đóng vai trò cực kỳ quan trọng trong môi trường 50% nhân sự ngoại quốc. Phụ trách tuyển dụng, đào tạo, cấp visa, hội nhập văn hóa, và xây dựng bộ tiêu chí đánh giá hiệu suất.
+Bộ phận Kế toán: Hạch toán lương thưởng, xử lý hóa đơn từ các đối tác, đối soát công nợ định kỳ.
+Bộ phận Tài chính: Hoạch định ngân sách dài hạn, phân bổ vốn đầu tư và quản lý dòng tiền của doanh nghiệp.
+2. Khối Kinh doanh & Tiếp thị
+Bộ phận Kinh doanh: Tìm kiếm và tư vấn giải pháp chuyển đổi số, đàm phán hợp đồng, và chốt doanh số cho sản phẩm lõi "Ace".
+Bộ phận Marketing: Xây dựng thương hiệu, tổ chức các chiến dịch quảng bá B2B.
+3. Khối Kỹ thuật & Sản xuất (Khối cốt lõi - 100% Nhân sự quốc tế)
+Bộ phận Phát triển phần mềm: Khối sản xuất chính. Chịu trách nhiệm viết mã, thiết kế kiến trúc phần mềm, và nâng cấp tính năng.
+Bộ phận Đảm bảo chất lượng: Đội ngũ kiểm thử, chịu trách nhiệm viết kịch bản kiểm thử, tìm kiếm và ghi nhận lỗi để đảm bảo phần mềm không xảy ra sự cố.
+Bộ phận Hạ tầng & Bảo mật: Vận hành máy chủ Oracle Cloud, xây dựng kiến trúc mạng, giám sát an toàn thông tin 24/7.
+4. Khối Hỗ trợ Khách hàng (Khối nội địa - 100% Nhân sự Nhật Bản)
+Bộ phận Chăm sóc khách hàng: Điểm chạm trực tiếp với người dùng cuối. Tiếp nhận các Phiếu báo lỗi, thắc mắc về cách sử dụng phần mềm, và đóng vai trò "cầu nối phiên dịch" nghiệp vụ.
